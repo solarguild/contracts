@@ -104,8 +104,6 @@ Words in the singular mean and include the plural and vice versa. Words in the m
 		 
 ## Governing Law 
 :include[Jurisdiction Clause]{"Parties"="[%Client] and [%Contractor]"}
-
-In the event of the Nation3 Jurisdiction being rendered as unfit to serve as dispute resolution for this Agreement,  it is the intention of the Parties to this Agreement that this Agreement and the performance under this Agreement, and all suits and special proceedings under this Agreement, be construed in accordance with and governed, to the exclusion of the law of any other forum, by the laws of [%Fallback Jurisdiction], without regard to the jurisdiction in which any action or special proceeding may be instituted.
 		 
 ## Severability 
 In the event that any of the provisions of this Agreement are held to be invalid or unenforceable in whole or in part, all other provisions will nevertheless continue to be valid and enforceable with the invalid or unenforceable parts severed from the remainder of this Agreement.
