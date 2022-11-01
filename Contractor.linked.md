@@ -1,5 +1,8 @@
+Jurisdiction Clause
+: Import https://linked.md/api/github/solarguild/contracts/main/shared/Jurisdiction.linked.md
+
 Client
-: Example LLC
+: Solar Guild LLC
 
 Client Email Address
 : l@solarguild.xyz
@@ -8,13 +11,13 @@ Contractor
 : John Doe
 
 Contractor Email Address
-: j@solarguild.xyz
+: john@doe.tld
 
 Contractor Ethereum Address
 : 0x123
 
 Date
-: 01/11/2022
+: 20/10/2030
 
 Services
 : software development services
@@ -30,9 +33,6 @@ Termination Notice Period
 
 Return of Property Time
 : 7 days
-
-Dispute Resolution Clause
-: Import https://linked.md/api/github/nation3/law/main/shared/DisputeResolutionClause.linked.md
 
 ---
 
@@ -103,7 +103,7 @@ b) Any notification or communication to Grantor shall be sent to [%Client Email 
 Words in the singular mean and include the plural and vice versa. Words in the masculine mean and include the feminine and vice versa.
 		 
 ## Governing Law 
-:include[Dispute Resolution Clause]{"Parties"="[%Client] and [%Contractor]"}
+:include[Jurisdiction Clause]{"Parties"="[%Client] and [%Contractor]"}
 
 In the event of the Nation3 Jurisdiction being rendered as unfit to serve as dispute resolution for this Agreement,  it is the intention of the Parties to this Agreement that this Agreement and the performance under this Agreement, and all suits and special proceedings under this Agreement, be construed in accordance with and governed, to the exclusion of the law of any other forum, by the laws of [%Fallback Jurisdiction], without regard to the jurisdiction in which any action or special proceeding may be instituted.
 		 
