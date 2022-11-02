@@ -1,11 +1,11 @@
 NATION
-: Import definitions https://linked.md/api/github/nation3/law/main/shared/NATION.linked.md
+: Import definitions ipfs://bafkreiekuc6c3bscs2mshf4sy7ggtabaav2wicvmsyfbviqhf3cbygzvf4#luisc.eth#NATION
 
 Jurisdiction Clause
-: Import https://linked.md/api/github/solarguild/contracts/main/shared/Jurisdiction.linked.md
+: Import ipfs://bafkreic4dmilrqupf2cfvpaq6ul3bj4bybjwul6ezvg3pfqhn3lxmssuja#luisc.eth#JurisdictionClauseWithFallback
 
 Designated Blockchain as Ethereum, Smart Contract
-: Import definitions https://linked.md/api/github/nation3/law/main/shared/primitives/Ethereum.linked.md
+: Import definitions ipfs://bafkreifr4nt7b2ivqov3iivhshjombxqxj7l2nx3hczryssmbrlngcvaly#luisc.eth#EthereumPrimitives
 
 Grantor
 : Solar Guild LLC

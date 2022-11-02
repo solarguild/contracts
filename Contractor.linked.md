@@ -1,5 +1,5 @@
 Jurisdiction Clause
-: Import https://linked.md/api/github/solarguild/contracts/main/shared/Jurisdiction.linked.md
+: Import ipfs://bafkreic4dmilrqupf2cfvpaq6ul3bj4bybjwul6ezvg3pfqhn3lxmssuja#luisc.eth#JurisdictionClauseWithFallback
 
 Client
 : Solar Guild LLC
