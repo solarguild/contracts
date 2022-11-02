@@ -1,5 +1,5 @@
 Dispute Resolution Clause
-: Import https://linked.md/api/github/nation3/law/main/shared/DisputeResolutionClause.linked.md
+: Import ipfs://bafkreig7sxogmchi3tuyhm4bpoofm4jgzxw3l2p6izcgz6uiqqxei4zpty#luisc.eth#DisputeResolutionClause
 
 Fallback Jurisdiction
 : the state of Delaware
