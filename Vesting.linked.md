@@ -22,9 +22,6 @@ Beneficiary Email Address
 Beneficiary Ethereum Address
 : 0x123
 
-Project
-: Nation3
-
 Plan
 : This document and its clauses regulating this incentive plan.
 
@@ -119,4 +116,4 @@ If any provision of this Plan becomes invalid, this shall not affect the validit
 Words in the singular mean and include the plural and vice versa. Words in the masculine mean and include the feminine and vice versa.
 
 ## Governing Law
-:include[Jurisdiction Clause]{"Parties"="[%Client] and [%Contractor]"}
+:include[Jurisdiction Clause]{"Parties"="[%Grantor] and [%Beneficiary]"}

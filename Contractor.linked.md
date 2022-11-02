@@ -65,7 +65,7 @@ Except as otherwise provided in this Agreement, all monetary amounts referred to
 For the services rendered by the Contractor as required by this Agreement, the Client will provide compensation (the "Compensation") to the Contractor totaling [%Compensation] payable in [%Compensation Tokens] to [%Contractor Ethereum Address] every month.
 
 The above Compensation includes all applicable sales tax, and duties as required by law.
-		 
+
 ## Ownership of Materials and Intellectual Property 
 All intellectual property and related materials (the "Intellectual Property") including any related work in progress that is developed or produced under this Agreement, will be the sole property of the Client. The use of the Intellectual Property by the Client will not be restricted in any manner.
 		 
@@ -73,40 +73,41 @@ The Contractor may not use the Intellectual Property for any purpose other than 
 
 ## Confidentiality
 Contractor assumes a duty of privacy and confidentiality in relation to all information, whatever its nature, to be provided by Client by writing or by any other means or support, tangible or intangible, relative to the commercial, financial or other activities and operations of Client, its partners, subsidiaries or associated companies, or its customers and suppliers.
-		 
+
 ## Return of Property 
 Upon the expiry or termination of this Agreement, the Contractor will return to the Client any property, documentation, records, or Confidential Information which is the property of the Client within [%Return of Property Time] of such termination.
-		 
+
 ## Capacity/Independent Contractor 
 In providing the Services under this Agreement it is expressly agreed that the Contractor is acting as an independent contractor and not as an employee. The Contractor and the Client acknowledge that this Agreement does not create a partnership or joint venture between them, and is exclusively a contract for service.
 
 ## Indemnification 
 Except to the extent paid in settlement from any applicable insurance policies, and to the extent permitted by applicable law, each Party agrees to indemnify and hold harmless the other Party, and its respective affiliates, officers, agents, employees, and permitted successors and assigns against any and all claims, losses, damages, liabilities, penalties, punitive damages, expenses, reasonable legal fees and costs of any kind or amount whatsoever, which result from or arise out of any act or omission of the indemnifying party, its respective affiliates, officers, agents, employees, and permitted successors and assigns that occurs in connection with this Agreement. This indemnification will survive the termination of this Agreement.
-		 
+
 ## Legal Expenses 
 In the event that legal action is brought to enforce or interpret any term of this Agreement, the prevailing Party will be entitled to recover, in addition to any other damages or award, all reasonable legal costs and fees associated with the action.
-		 
+
 ## Modification of Agreement 
 Any amendment or modification of this Agreement or additional obligation assumed by either Party in connection with this Agreement will only be binding if evidenced in writing signed by each Party or an authorized representative of each Party.
-		 		 
+
 ## Assignment 
 The Contractor will not voluntarily, or by operation of law, assign or otherwise transfer its obligations under this Agreement without the prior written consent of the Client.
-		 
+
 ## Entire Agreement 
 It is agreed that there is no representation, warranty, collateral agreement or condition affecting this Agreement except as expressly provided in this Agreement.
 
 ## Notices
 a) Any notification or communication to Beneficiary shall be sent to [%Contractor Email Address].
 b) Any notification or communication to Grantor shall be sent to [%Client Email Address]. 
-		 
-## Gender Neutrality 
-Words in the singular mean and include the plural and vice versa. Words in the masculine mean and include the feminine and vice versa.
-		 
-## Governing Law 
-:include[Jurisdiction Clause]{"Parties"="[%Client] and [%Contractor]"}
-		 
+
 ## Severability 
 In the event that any of the provisions of this Agreement are held to be invalid or unenforceable in whole or in part, all other provisions will nevertheless continue to be valid and enforceable with the invalid or unenforceable parts severed from the remainder of this Agreement.
 
 ## Waiver
 The waiver by either Party of a breach, default, delay or omission of any of the provisions of this Agreement by the other Party will not be construed as a waiver of any subsequent breach of the same or other provisions.
+
+## Gender Neutrality 
+Words in the singular mean and include the plural and vice versa. Words in the masculine mean and include the feminine and vice versa.
+
+## Governing Law 
+:include[Jurisdiction Clause]{"Parties"="[%Client] and [%Contractor]"}
+		 
