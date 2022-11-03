@@ -20,7 +20,7 @@ Date
 : 20/10/2030
 
 Services
-: software development services
+: software development
 
 Compensation
 : 1 USD per month
@@ -46,7 +46,7 @@ The Contractor is agreeable to providing such services to the Client on the term
 In consideration of the matters described above and of the mutual benefits and obligations set forth in this Agreement, the receipt and sufficiency of which consideration is hereby acknowledged, the Client and the Contractor (individually the "Party" and collectively the "Parties" to this Agreement) agree to the following clauses.
 
 ## Services Provided
-a) The Client hereby agrees to engage the Contractor to provide the Client with [%Services].
+a) The Client hereby agrees to engage the Contractor to provide the Client with [%Services] services.
 b) The Services will also include any other tasks which the Parties may agree on. The Contractor hereby agrees to provide such Services to the Client.
 
 ## Term of Agreement 
@@ -62,7 +62,7 @@ The Parties agree to do everything necessary to ensure that the terms of this Ag
 Except as otherwise provided in this Agreement, all monetary amounts referred to in this Agreement are in US Dollars.
 
 ## Compensation 
-For the services rendered by the Contractor as required by this Agreement, the Client will provide compensation (the "Compensation") to the Contractor totaling [%Compensation] payable in [%Compensation Tokens] to [%Contractor Ethereum Address] every month.
+For the services rendered by the Contractor as required by this Agreement, the Client will provide compensation (the "Compensation") to the Contractor totaling [%Compensation] payable in [%Compensation Tokens] to [%Contractor Ethereum Address].
 
 The above Compensation includes all applicable sales tax, and duties as required by law.
 
