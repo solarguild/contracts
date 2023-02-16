@@ -1,5 +1,5 @@
 Dispute Resolution Clause
-: Import ipfs://bafkreig7sxogmchi3tuyhm4bpoofm4jgzxw3l2p6izcgz6uiqqxei4zpty
+: Import ipfs://bafybeig23unyfdwrntfymdyr44ngl5amiw7oei57eekmztc3zjzvkof6oa/DisputeResolutionClause.linked.md
 
 Fallback Jurisdiction
 : Estonia
