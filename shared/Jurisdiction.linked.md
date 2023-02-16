@@ -1,5 +1,5 @@
 Dispute Resolution Clause
-: Import ipfs://bafkreig7sxogmchi3tuyhm4bpoofm4jgzxw3l2p6izcgz6uiqqxei4zpty#luisc.eth#DisputeResolutionClause
+: Import ipfs://bafkreig7sxogmchi3tuyhm4bpoofm4jgzxw3l2p6izcgz6uiqqxei4zpty
 
 Fallback Jurisdiction
 : the state of Delaware
