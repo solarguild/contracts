@@ -1,8 +1,11 @@
 NATION
 : Import definitions ipfs://bafybeig27rf3y3t53gn7nilq7ljvdnofciyi6k4dbb5ywbnl2kcfa7wqte/NATION.linked.md
 
-Jurisdiction Clause
-: Import ipfs://bafybeih56riqfcovswqaf2pr3gjlwgsiuvafdmuixnlo26pygn52xbofxe/JurisdictionClause.linked.md
+Dispute Resolution Clause
+: Import ipfs://bafybeig23unyfdwrntfymdyr44ngl5amiw7oei57eekmztc3zjzvkof6oa/DisputeResolutionClause.linked.md
+
+Fallback Jurisdiction Clause
+: Import ipfs://bafybeihhf4bkowls7neegd4ulwy5begwoftz5psxh7eitr4xz7bu7i7ezm/FallbackJurisdictionClause.linked.md
 
 Designated Blockchain as Ethereum, Smart Contract
 : Import definitions ipfs://bafybeicrajuuvz5c5zuvje2y5qewdugdcpkkqpvoajhr24qschuwplyrxe/EthereumPrimitives.linked.md
@@ -129,4 +132,6 @@ Words in the singular mean and include the plural and vice versa. Words in the m
 
 ## Governing Law
 
-:include[Jurisdiction Clause]{"Parties"="[%Grantor] and [%Beneficiary]"}
+:include[Dispute Resolution Clause]{"Parties"="[%Grantor] and [%Beneficiary]"}
+
+:include[Fallback Jurisdiction Clause]{"Definitions"="false"}

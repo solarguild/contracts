@@ -1,5 +1,5 @@
-Jurisdiction Clause
-: Import ipfs://bafybeih56riqfcovswqaf2pr3gjlwgsiuvafdmuixnlo26pygn52xbofxe/JurisdictionClause.linked.md
+Dispute Resolution Clause
+: Import ipfs://bafybeig23unyfdwrntfymdyr44ngl5amiw7oei57eekmztc3zjzvkof6oa/DisputeResolutionClause.linked.md
 
 Client
 : SolarFreedom OÜ
@@ -129,4 +129,4 @@ Words in the singular mean and include the plural and vice versa. Words in the m
 
 ## Governing Law
 
-:include[Jurisdiction Clause]{"Parties"="[%Client] and [%Contractor]"}
+:include[Dispute Resolution Clause]{"Parties"="[%Client] and [%Contractor]"}
