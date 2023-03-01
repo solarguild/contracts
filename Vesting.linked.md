@@ -46,9 +46,6 @@ Linear Vesting Period
 Granting Date
 : 20/10/2030
 
-Cliff Date
-: [%Cliff Period] after [%Granting Date]
-
 Vesting Contract
 : Vesting Smart Contract specifically programmed in accordance with the terms of the Plan.
 
@@ -97,7 +94,7 @@ c) Upon losing the status as Beneficiary, such Beneficiary shall lose his right 
 
 ## Smart Contract
 
-a) As from [%Cliff Date], the Incentive to be granted to Beneficiary shall be subject to the terms of Vesting Contract. 
+a) As from [%Cliff Period] after [%Granting Date], the Incentive to be granted to Beneficiary shall be subject to the terms of Vesting Contract. 
 b) In case of conflict between the terms of the Vesting Contract and the terms of the Plan, the terms of the Plan shall prevail against the terms of the Vesting Contract.
 c) In case every and all requirements set forth in the General Conditions of the Plan are met, the Vesting Contract shall release the vested Tokens and the Beneficiary shall then claim his already unlocked tokens by interacting with the Vesting Contract and calling the release function, which is already at his disposal. Upon such call, the Vesting Contract will transfer the already vested tokens to Beneficiary Ethereum Address. 
 d) Upon the loss of the status of Beneficiary, the corresponding Vesting Contract shall no longer continue to allow the Beneficiary to release tokens, and the non-vested Tokens shall be released in favor of Grantor.
